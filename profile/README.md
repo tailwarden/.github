@@ -7,4 +7,4 @@
 * 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/mlabouardy/komiser/issues/new?assignees=&labels=&template=feature_request.md&title=)
 * 🐛 Did you run into a bug? [Open a bug report](https://github.com/mlabouardy/oraculi/komiser/new?assignees=&labels=bug&template=bug_report.yml)
 * ⚠️ Service interuptions? [Checkout Oraculi Status](https://status.oraculi.io)
-* 🦩 Feeling social? [Join our discord community](https://www.discord.oraculi.io)
+* 🦩 Feeling social? [Join our discord community](https://discord.oraculi.io)
