@@ -1,4 +1,4 @@
-<img src="komiser%20banner.png"/>
+<img src="profile/komiser%20banner.png"/>
 
 # 👋 Welcome to Tailwarden!
 
