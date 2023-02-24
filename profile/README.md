@@ -1,3 +1,5 @@
+<img src="komiser%20banner.png"/>
+
 # 👋 Welcome to Tailwarden!
 
 > Tailwarden is an open-source platform built for the 99% of developers bringing DevOps knowledge to developers’ fingertips. We enable developers to take control on their cloud infrastructure while building secure, efficient and cost-effective applications.
