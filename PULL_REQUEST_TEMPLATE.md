@@ -62,3 +62,5 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 None
 
 ## [optional] What gif best describes this PR or how it makes you feel?
+
+You can use [Gif for GitHub](https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep/related?hl=en) extension to generate one
