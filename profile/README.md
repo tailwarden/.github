@@ -10,7 +10,6 @@
 
 * 🗺️ Interested in what new features are coming up next? [Checkout Tailwarden's Product Roadmap](https://roadmap.tailwarden.com)
 * 🐛 Did you run into a bug? [Open a bug report](https://discord.tailwarden.com)
-* ⚠️ Service interruptions? [Checkout Tailwarden Status](https://status.tailwarden.com)
 * 🦩 Feeling social? [Join our discord community](https://discord.tailwarden.com)
 * 🚀 Looking for a job? [We're hiring](https://jobs.tailwarden.com)
 
