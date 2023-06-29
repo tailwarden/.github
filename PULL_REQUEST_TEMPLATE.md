@@ -19,7 +19,6 @@
 - [ ] 📝 Documentation Update
 - [ ] 🎨 Style
 - [ ] 💻 Code Refactor
-- [ ] 🗒 Code comment intelliSense
 - [ ] 🔥 Performance Improvements
 - [ ] ✅ Test
 - [ ] 🤖 Build
@@ -56,6 +55,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 - [ ] 📜 README.md
 - [ ] 📓 docs.komiser.io
 - [ ] 📕 storybook
+- [ ] 🗒 Code comment intelliSense
 - [ ] 🙅 no documentation needed
 
 ## [optional] Are there any post-deployment tasks we need to perform?
