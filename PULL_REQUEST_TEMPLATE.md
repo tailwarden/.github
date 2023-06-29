@@ -19,6 +19,7 @@
 - [ ] 📝 Documentation Update
 - [ ] 🎨 Style
 - [ ] 💻 Code Refactor
+- [ ] 🗒 Code comment intelliSense
 - [ ] 🔥 Performance Improvements
 - [ ] ✅ Test
 - [ ] 🤖 Build
