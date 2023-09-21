@@ -60,20 +60,21 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 ## Complete the checklist before considering this PR as "Ready to review"
 
-[ ] Pull the Code - Ensure the functionality works locally.
-[ ] Compare to the Design - Check if everything matches the design specifications. Validate the consistency of colors, fonts, paddings, etc.
-[ ] Responsive Testing - Resize the browser window to ensure nothing breaks on mobile
-[ ] Code Quality - Ensure best coding practices are used \*
-[ ] Ensure no commented-out code or debug logs are left behind.
-[ ] Check for code modularity and reusability.
-[ ] Check for descriptive variable names: e.g., "totalPrice" not "tp".
-[ ] Ensure there are no linting errors `npm run lint`
-[ ] Ensure the code passes the build `npm run build`
-[ ] Ensure there are no inline error disabling/ignores
-[ ] Ensure all newly added dependencies are actually necessary (package.json)
-[ ] Check that the PR has a title and description
+- [ ] Pull the Code - Ensure the functionality works locally.
+- [ ] Compare to the Design - Check if everything matches the design specifications. Validate the consistency of colors, fonts, paddings, etc.
+- [ ] Responsive Testing - Resize the browser window to ensure nothing breaks on mobile
+- [ ] Code Quality - Ensure best coding practices are used \*
+- [ ] Ensure no commented-out code or debug logs are left behind.
+- [ ] Check for code modularity and reusability.
+- [ ] Check for descriptive variable names: e.g., "totalPrice" not "tp".
+- [ ] Ensure there are no linting errors `npm run lint`
+- [ ] Ensure the code passes the build `npm run build`
+- [ ] Ensure there are no inline error disabling/ignores
+- [ ] Ensure all newly added dependencies are actually necessary (package.json)
+- [ ] Check that the PR has a title and description
 
-\*React specific:
+*React specific:*
+```
 Key Prop: e.g., "Unique key prop given to all elements in a list."
 Prop Drilling: e.g., "Avoid excessive prop drilling; consider context or state management."
 Effect Dependencies: e.g., "All dependencies added in useEffect dependency array."
@@ -81,6 +82,7 @@ Custom Hooks: e.g., "Logic extracted to custom hooks for reusability."
 Memoization: e.g., "Used React.memo, useMemo for expensive computations."
 Provider Placement: e.g., "Providers wrap necessary components only."
 Semantic JSX: e.g., "Used <button> for buttons, not <div>."
+```
 
 ## [optional] Are there any post-deployment tasks we need to perform?
 
