@@ -1,4 +1,4 @@
-<img src="profile/banner.png"/>
+<img src="banner.png"/>
 
 # 👋 Welcome to Tailwarden!
 
